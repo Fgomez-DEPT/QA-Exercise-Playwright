@@ -1,0 +1,28 @@
+{
+  "name": "playwright-spacex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Fernando Gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.6",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.4",
+    "istanbul-lib-report": "^3.0.1",
+    "istanbul-reports": "^3.1.6",
+    "playwright": "^1.38.1",
+    "v8-to-istanbul": "^9.1.0"
+  }
+}
